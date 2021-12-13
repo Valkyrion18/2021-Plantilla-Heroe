@@ -115,9 +115,22 @@ margin-top: 0;
     transform: translateY(0);
 }
 
+footer{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-color: var(--secundary-color);
+}
 
+footer p{
+    color: #fff;
+    margin: 5px;
+}
 
-
+.p1{
+    padding-top: 10px;
+}
 
 
 
